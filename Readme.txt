@@ -95,7 +95,3 @@ ________________
 
 License
 This project is licensed under the MIT License.
-________________
-
-
-This version is concise, professional, and well-structured for GitHub publishing. Let me know if you'd like to make further refinements!
